@@ -1,3 +1,4 @@
+import pillow
 # Python program for simple calculator
 
 # Function to add two numbers

@@ -1,3 +1,4 @@
+import pandas
 import pillow
 # Python program for simple calculator
 
